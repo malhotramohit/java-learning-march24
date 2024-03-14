@@ -1,0 +1,19 @@
+c++ vs java ?
+
+c++ > compile -> exe [windows 10] -> run
+[mac] ?
+
+Java > compile -> bytecode (.class files) [windows 10] -> run
+[mac] ?
+
+.class combination zipped -> jar  , rt.jar , 
+
+JVM -> Java virtual machine 
+JRE -> Java runtime runtime 
+JDK -> Java development kit
+ heap dumps ? cpu ? RSA public private key keytool 
+WORA
+platform independence ?
+
+
+1) WAP to check if num is odd or even ?
