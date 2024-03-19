@@ -17,3 +17,9 @@ platform independence ?
 
 
 1) WAP to check if num is odd or even ?
+2) try switch w/o break statement;
+3) find 2nd largest in arr
+4) 		// sort
+		// {0 ,1 , 1 , 0 , 1 , 1 ,0}
+		// n time
+5) 		//{34,-2,3,6,-1,9,45,32 , 7}  , sum = 5 , {(-2,7),(6,-1)}

@@ -93,6 +93,10 @@ public class Test {
 		} else {
 			System.out.println("Num is not prime");
 		}
+		
+		int s = 0x1f;
+		
+		
 
 	}
 
