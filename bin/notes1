@@ -21,5 +21,6 @@ platform independence ?
 3) find 2nd largest in arr
 4) 		// sort
 		// {0 ,1 , 1 , 0 , 1 , 1 ,0}
+		//0 0 0 1 1 1
 		// n time
 5) 		//{34,-2,3,6,-1,9,45,32 , 7}  , sum = 5 , {(-2,7),(6,-1)}
