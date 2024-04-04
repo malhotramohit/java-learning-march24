@@ -30,11 +30,11 @@ public class TestAccount {
 		System.out.println(acc.getAccountType());
 
 //		acc.balance = 3434;
-		
-		Customer customer =  new Customer("cu-r4445454", "Mohit", acc);
+
+		Customer customer = new Customer("cu-r4445454", "Mohit", acc);
 
 		customer.getAccount().getAccountNum();
-		
+
 	}
 
 }
